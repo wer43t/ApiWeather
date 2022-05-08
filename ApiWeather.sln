@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeather.Android", "ApiWeather\ApiWeather.Android\ApiWeather.Android.csproj", "{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeather", "ApiWeather\ApiWeather\ApiWeather.csproj", "{9E27CC29-B7A0-4CD8-8384-5980194E38A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E39BCE2-7F62-4645-B3AC-A6931F94A6ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E27CC29-B7A0-4CD8-8384-5980194E38A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436828A9-E9FB-4AB0-BC9F-85E2A5F09A04}
+	EndGlobalSection
+EndGlobal
